@@ -14,5 +14,5 @@ void  main()
     ? printf("A is max")
     : printf("B is max");
 
-    getch()
+    getch();
 }
